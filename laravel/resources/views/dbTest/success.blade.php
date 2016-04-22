@@ -1,0 +1,1 @@
+<h1>Data insert successfully!</h1>
